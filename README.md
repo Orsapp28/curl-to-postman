@@ -10,8 +10,12 @@ Let's start by running some commands both in cURL and Postman using a free publi
 - [Bored API](https://www.boredapi.com/api/activity) 
 - [ReqRes](https://reqres.in/)
 
+### API Collections
+- [Free APIs](https://free-apis.github.io/#/)
+- [Public APIs](https://github.com/public-apis/public-apis)
+
 ### Objectives
-Choose one to run some cURL commands in.  Follow the API's documentation to learn more about what you can and can't do with the API.
+Choose one to run some cURL commands in.  Follow the API's documentation to learn more about what you can and can't do with the API.  All APIs are different, and most free public APIs won't have endpoints using requests like POST.  If the developers of an API let just about anyone POST data to their DBs, that's a recipe for disaster.
 
 As you write out your cURL commands, save them to the curl.md document in the solutions folder of this repository.
 
